@@ -1,0 +1,17 @@
+[theme]
+# A professional "eco-friendly" color scheme
+
+# Primary color (buttons, sliders, etc.) - A nice sea green
+primaryColor = "#2E8B57"
+
+# Main background color
+backgroundColor = "#F0F2F6"
+
+# Sidebar and card background color
+secondaryBackgroundColor = "#FFFFFF"
+
+# Main text color
+textColor = "#31333F"
+
+# Font
+font = "sans serif"
